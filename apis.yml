@@ -1,7 +1,12 @@
 aid: nu-skin-enterprises
-url: https://raw.githubusercontent.com/api-evangelist/nu-skin-enterprises/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/nu-skin-enterprises/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.nu-skin-enterprises.com
+description: >-
+  Nu Skin Enterprises is a global multilevel marketing company that develops and distributes
+  personal care products and dietary supplements through a network of independent
+  distributors.
