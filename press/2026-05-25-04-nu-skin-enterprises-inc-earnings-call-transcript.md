@@ -1,7 +1,9 @@
 ---
 title: NU SKIN ENTERPRISES INC Earnings Call Transcript ...
 url: https://www.stockinsights.ai/us/NUS/earnings-transcript/fy25-q1-9f0d
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nu Skin Enterprises" press release artificial intelligence'
 position: 4
 source: serpapi-google

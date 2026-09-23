@@ -1,7 +1,9 @@
 ---
 title: nu skin enterprises, inc.
 url: https://www.sec.gov/Archives/edgar/data/1021561/000114036124008111/ef20015265_10k.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nu Skin Enterprises" press release artificial intelligence'
 position: 3
 source: serpapi-google
